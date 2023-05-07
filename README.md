@@ -29,6 +29,13 @@ Install-Package DiscordRichPresence
 Install-Package Newtonsoft.Json
 ```
 
+#### Obtaining Your Client ID:
+Navigate to [Here](https://discord.com/developers/)
+Click “Create an Application.”
+Setup the application how you want, give it the name you want, and give it a good image.
+Right under the OAuth tab of your application will be your Client ID. You will need this later.
+Lastly, save your application.
+
 ## Developer Information:
 - C# .NET Framework.
 - Discord-RPC-C# [Here](https://github.com/Lachee/discord-rpc-csharp)
