@@ -1,0 +1,2 @@
+# DiscordCRPC
+Custom Discord RPC
